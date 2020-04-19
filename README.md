@@ -1,4 +1,4 @@
-# FriFilur
+# Fri Filur
 Simple Analog Voltmeter Clock powered by batteries called Fri Filur.
 
 The meaning of this repo is to display my clock and to communicate my experience and reflections.
